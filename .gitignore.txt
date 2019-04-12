@@ -1,0 +1,4 @@
+TMFramwork4_HRM/target/*
+TMFramwork4_HRM/test-output/*
+TMFramwork4_HRM/test-output/*
+TMFramwork4_HRM/Results/*
